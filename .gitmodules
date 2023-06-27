@@ -1,0 +1,3 @@
+[submodule "English-Vocabulary-Word-List"]
+	path = English-Vocabulary-Word-List
+	url = https://github.com/jnoodle/English-Vocabulary-Word-List.git
